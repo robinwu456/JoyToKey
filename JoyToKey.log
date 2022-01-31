@@ -1,0 +1,425 @@
+2022/01/19 15:27:22.188 Info   Starting JoyToKey v6.6
+2022/01/19 15:27:22.188 Info   ExeFile = D:\JoyToKey\JoyToKey.exe
+2022/01/19 15:27:22.188 Info   Args = D:\JoyToKey\JoyToKey.exe
+2022/01/19 15:27:22.188 Info   DataDirectory = C:\Users\RB\Documents\JoyToKey\
+2022/01/19 15:27:22.188 Info   Profile = 
+2022/01/19 15:27:22.188 Info   IniFile = C:\Users\RB\Documents\JoyToKey\JoyToKey.ini
+2022/01/19 15:27:22.188 Info   Loading ini file: C:\Users\RB\Documents\JoyToKey\JoyToKey.ini (AppInfo.cpp#240)
+2022/01/19 15:27:22.188 Info   LicenseKey "" is not valid
+2022/01/19 15:27:22.366 Info   Loading XInput1_3.dll (Joystick.cpp#153)
+2022/01/19 15:27:22.368 Info   Initialized XInput (Joystick.cpp#171)
+2022/01/19 15:27:22.377 Info   Initialized DirectInput (Joystick.cpp#184)
+2022/01/19 15:27:22.377 Info   Loading hid.dll (JoystickHID.h#58)
+2022/01/19 15:27:22.378 Info   Initialized HID (Joystick.cpp#193)
+2022/01/19 15:27:22.378 Info   ConfigDir=C:\Users\RB\Documents\JoyToKey\*.cfg (ConfigFileManager.cpp#43)
+2022/01/19 15:27:22.384 Info   Failed to find AppLink.dat (AppLink\AppLinkManager.cpp#32)
+2022/01/19 15:27:22.395 Info   TimerInit: Initializing timer with x1 speed mode (interval = 16 msec)
+2022/01/19 15:27:22.501 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/01/19 15:27:22.502 Info   numAxis = 4
+2022/01/19 15:27:22.502 Info   numPOVs = 1
+2022/01/19 15:27:22.502 Info   numButtons = 16
+2022/01/19 15:27:22.502 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/01/19 15:27:22.502 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/01/19 15:27:22.502 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/01/19 15:27:22.502 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/01/19 15:27:22.512 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/01/19 15:27:22.532 Info   Joystick #1: Wireless Gamepad
+2022/01/19 15:27:22.532 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/01/19 16:11:59.346 Error  Failed to obtain the target window handle (Utils\Utils.cpp#340)
+2022/01/19 16:11:59.346 Error  存取被拒。
+ (Utils\Utils.cpp#341)
+2022/01/19 17:09:46.696 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/01/19 21:32:09.460 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/01/19 21:32:09.460 Info   numAxis = 4
+2022/01/19 21:32:09.460 Info   numPOVs = 1
+2022/01/19 21:32:09.460 Info   numButtons = 16
+2022/01/19 21:32:09.460 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/01/19 21:32:09.460 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/01/19 21:32:09.460 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/01/19 21:32:09.460 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/01/19 21:32:09.471 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/01/19 21:32:09.474 Info   Joystick #1: Wireless Gamepad
+2022/01/19 21:32:09.474 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/01/19 21:32:45.307 Error  Failed to obtain the target window handle (Utils\Utils.cpp#340)
+2022/01/19 21:32:45.307 Error  存取被拒。
+ (Utils\Utils.cpp#341)
+2022/01/19 21:34:23.301 Error  Failed to obtain the target window handle (Utils\Utils.cpp#340)
+2022/01/19 21:34:23.301 Error  存取被拒。
+ (Utils\Utils.cpp#341)
+2022/01/19 21:35:59.310 Error  Failed to obtain the target window handle (Utils\Utils.cpp#340)
+2022/01/19 21:35:59.310 Error  存取被拒。
+ (Utils\Utils.cpp#341)
+2022/01/20 00:20:21.984 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/01/20 01:03:56.073 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/01/20 01:03:56.074 Info   numAxis = 4
+2022/01/20 01:03:56.074 Info   numPOVs = 1
+2022/01/20 01:03:56.074 Info   numButtons = 16
+2022/01/20 01:03:56.074 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/01/20 01:03:56.074 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/01/20 01:03:56.074 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/01/20 01:03:56.074 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/01/20 01:03:56.084 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/01/20 01:03:56.086 Info   Joystick #1: Wireless Gamepad
+2022/01/20 01:03:56.086 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/01/20 01:09:43.547 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/20 上午 09:05:05 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/20 上午 09:05:05 Info   numAxis = 4
+2022/1/20 上午 09:05:05 Info   numPOVs = 1
+2022/1/20 上午 09:05:05 Info   numButtons = 16
+2022/1/20 上午 09:05:05 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/20 上午 09:05:05 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/20 上午 09:05:05 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/20 上午 09:05:05 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/20 上午 09:05:05 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/20 上午 09:05:05 Info   Joystick #1: Wireless Gamepad
+2022/1/20 上午 09:05:05 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/20 上午 09:13:33 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/20 下午 06:57:06 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/20 下午 06:57:06 Info   numAxis = 4
+2022/1/20 下午 06:57:06 Info   numPOVs = 1
+2022/1/20 下午 06:57:06 Info   numButtons = 16
+2022/1/20 下午 06:57:06 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/20 下午 06:57:06 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/20 下午 06:57:06 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/20 下午 06:57:06 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/20 下午 06:57:06 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/20 下午 06:57:06 Info   Joystick #1: Wireless Gamepad
+2022/1/20 下午 06:57:06 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/20 下午 09:33:40 Error  Failed to obtain the target window handle (Utils\Utils.cpp#340)
+2022/1/20 下午 09:33:40 Error  存取被拒。
+ (Utils\Utils.cpp#341)
+2022/1/20 下午 11:22:10 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/20 下午 11:42:13 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/20 下午 11:42:13 Info   numAxis = 4
+2022/1/20 下午 11:42:13 Info   numPOVs = 1
+2022/1/20 下午 11:42:13 Info   numButtons = 16
+2022/1/20 下午 11:42:13 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/20 下午 11:42:13 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/20 下午 11:42:13 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/20 下午 11:42:13 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/20 下午 11:42:13 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/20 下午 11:42:13 Info   Joystick #1: Wireless Gamepad
+2022/1/20 下午 11:42:13 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/21 上午 04:05:04 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/21 下午 02:42:14 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/21 下午 02:42:14 Info   numAxis = 4
+2022/1/21 下午 02:42:14 Info   numPOVs = 1
+2022/1/21 下午 02:42:14 Info   numButtons = 16
+2022/1/21 下午 02:42:14 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/21 下午 02:42:14 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/21 下午 02:42:14 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/21 下午 02:42:14 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/21 下午 02:42:14 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/21 下午 02:42:14 Info   Joystick #1: Wireless Gamepad
+2022/1/21 下午 02:42:14 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/21 下午 03:15:55 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/21 下午 03:19:09 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/21 下午 03:19:09 Info   numAxis = 4
+2022/1/21 下午 03:19:09 Info   numPOVs = 1
+2022/1/21 下午 03:19:09 Info   numButtons = 16
+2022/1/21 下午 03:19:09 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/21 下午 03:19:09 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/21 下午 03:19:09 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/21 下午 03:19:09 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/21 下午 03:19:09 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/21 下午 03:19:09 Info   Joystick #1: Wireless Gamepad
+2022/1/21 下午 03:19:09 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/21 下午 03:22:27 Info   Save config file "墨玄" (ConfigFileManager.cpp#425)
+2022/1/21 下午 04:52:03 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/22 下午 02:39:39 Error  Failed to obtain the target window handle (Utils\Utils.cpp#340)
+2022/1/22 下午 02:39:39 Error  存取被拒。
+ (Utils\Utils.cpp#341)
+2022/1/22 下午 06:40:18 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/22 下午 06:40:18 Info   numAxis = 4
+2022/1/22 下午 06:40:18 Info   numPOVs = 1
+2022/1/22 下午 06:40:18 Info   numButtons = 16
+2022/1/22 下午 06:40:18 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/22 下午 06:40:18 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/22 下午 06:40:18 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/22 下午 06:40:18 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/22 下午 06:40:18 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/22 下午 06:40:18 Info   Joystick #1: Wireless Gamepad
+2022/1/22 下午 06:40:18 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/22 下午 07:12:49 Error  Failed to obtain the target window handle (Utils\Utils.cpp#340)
+2022/1/22 下午 07:12:49 Error  存取被拒。
+ (Utils\Utils.cpp#341)
+2022/1/22 下午 08:17:40 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/23 下午 12:41:17 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/23 下午 12:41:17 Info   numAxis = 4
+2022/1/23 下午 12:41:17 Info   numPOVs = 1
+2022/1/23 下午 12:41:17 Info   numButtons = 16
+2022/1/23 下午 12:41:17 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/23 下午 12:41:17 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/23 下午 12:41:17 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/23 下午 12:41:17 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/23 下午 12:41:17 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/23 下午 12:41:17 Info   Joystick #1: Wireless Gamepad
+2022/1/23 下午 12:41:17 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/23 下午 12:49:28 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/23 下午 12:59:08 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/23 下午 12:59:08 Info   numAxis = 4
+2022/1/23 下午 12:59:08 Info   numPOVs = 1
+2022/1/23 下午 12:59:08 Info   numButtons = 16
+2022/1/23 下午 12:59:08 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/23 下午 12:59:08 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/23 下午 12:59:08 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/23 下午 12:59:08 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/23 下午 12:59:08 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/23 下午 12:59:08 Info   Joystick #1: Wireless Gamepad
+2022/1/23 下午 12:59:08 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/23 下午 01:09:02 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/23 下午 01:22:40 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/23 下午 01:22:40 Info   numAxis = 4
+2022/1/23 下午 01:22:40 Info   numPOVs = 1
+2022/1/23 下午 01:22:40 Info   numButtons = 16
+2022/1/23 下午 01:22:40 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/23 下午 01:22:40 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/23 下午 01:22:40 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/23 下午 01:22:40 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/23 下午 01:22:40 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/23 下午 01:22:40 Info   Joystick #1: Wireless Gamepad
+2022/1/23 下午 01:22:40 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/23 下午 02:30:33 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/23 下午 02:32:48 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/23 下午 02:32:48 Info   numAxis = 4
+2022/1/23 下午 02:32:48 Info   numPOVs = 1
+2022/1/23 下午 02:32:48 Info   numButtons = 16
+2022/1/23 下午 02:32:48 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/23 下午 02:32:48 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/23 下午 02:32:48 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/23 下午 02:32:48 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/23 下午 02:32:48 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/23 下午 02:32:48 Info   Joystick #1: Wireless Gamepad
+2022/1/23 下午 02:32:48 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/23 下午 03:34:25 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/23 下午 05:31:43 Error  Failed to obtain the target window handle (Utils\Utils.cpp#340)
+2022/1/23 下午 05:31:43 Error  存取被拒。
+ (Utils\Utils.cpp#341)
+2022/1/23 下午 05:59:41 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/23 下午 05:59:41 Info   numAxis = 4
+2022/1/23 下午 05:59:41 Info   numPOVs = 1
+2022/1/23 下午 05:59:41 Info   numButtons = 16
+2022/1/23 下午 05:59:41 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/23 下午 05:59:41 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/23 下午 05:59:41 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/23 下午 05:59:41 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/23 下午 05:59:41 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/23 下午 05:59:41 Info   Joystick #1: Wireless Gamepad
+2022/1/23 下午 05:59:41 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/23 下午 06:43:40 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/23 下午 07:30:15 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/23 下午 07:30:15 Info   numAxis = 4
+2022/1/23 下午 07:30:15 Info   numPOVs = 1
+2022/1/23 下午 07:30:15 Info   numButtons = 16
+2022/1/23 下午 07:30:15 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/23 下午 07:30:15 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/23 下午 07:30:15 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/23 下午 07:30:15 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/23 下午 07:30:15 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/23 下午 07:30:15 Info   Joystick #1: Wireless Gamepad
+2022/1/23 下午 07:30:15 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/23 下午 09:33:14 Error  Failed to obtain the target window handle (Utils\Utils.cpp#340)
+2022/1/23 下午 09:33:14 Error  存取被拒。
+ (Utils\Utils.cpp#341)
+2022/1/23 下午 09:34:53 Error  Failed to obtain the target window handle (Utils\Utils.cpp#340)
+2022/1/23 下午 09:34:53 Error  存取被拒。
+ (Utils\Utils.cpp#341)
+2022/1/23 下午 09:36:28 Error  Failed to obtain the target window handle (Utils\Utils.cpp#340)
+2022/1/23 下午 09:36:28 Error  存取被拒。
+ (Utils\Utils.cpp#341)
+2022/1/23 下午 10:28:20 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/23 下午 10:28:24 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/23 下午 10:28:24 Info   numAxis = 4
+2022/1/23 下午 10:28:24 Info   numPOVs = 1
+2022/1/23 下午 10:28:24 Info   numButtons = 16
+2022/1/23 下午 10:28:24 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/23 下午 10:28:24 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/23 下午 10:28:24 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/23 下午 10:28:24 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/23 下午 10:28:24 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/23 下午 10:28:24 Info   Joystick #1: Wireless Gamepad
+2022/1/23 下午 10:28:24 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/24 上午 02:14:02 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/24 下午 05:30:59 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/24 下午 05:30:59 Info   numAxis = 4
+2022/1/24 下午 05:30:59 Info   numPOVs = 1
+2022/1/24 下午 05:30:59 Info   numButtons = 16
+2022/1/24 下午 05:30:59 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/24 下午 05:30:59 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/24 下午 05:30:59 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/24 下午 05:30:59 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/24 下午 05:30:59 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/24 下午 05:30:59 Info   Joystick #1: Wireless Gamepad
+2022/1/24 下午 05:30:59 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/24 下午 05:57:02 Error  Failed to obtain the target window handle (Utils\Utils.cpp#340)
+2022/1/24 下午 05:57:02 Error  存取被拒。
+ (Utils\Utils.cpp#341)
+2022/1/24 下午 07:02:52 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/25 上午 12:32:01 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/25 上午 12:32:01 Info   numAxis = 4
+2022/1/25 上午 12:32:01 Info   numPOVs = 1
+2022/1/25 上午 12:32:01 Info   numButtons = 16
+2022/1/25 上午 12:32:01 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/25 上午 12:32:01 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/25 上午 12:32:01 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/25 上午 12:32:01 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/25 上午 12:32:01 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/25 上午 12:32:01 Info   Joystick #1: Wireless Gamepad
+2022/1/25 上午 12:32:01 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/25 上午 12:50:07 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/25 下午 08:26:19 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/25 下午 08:26:19 Info   numAxis = 4
+2022/1/25 下午 08:26:19 Info   numPOVs = 1
+2022/1/25 下午 08:26:19 Info   numButtons = 16
+2022/1/25 下午 08:26:19 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/25 下午 08:26:19 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/25 下午 08:26:19 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/25 下午 08:26:19 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/25 下午 08:26:19 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/25 下午 08:26:19 Info   Joystick #1: Wireless Gamepad
+2022/1/25 下午 08:26:19 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/25 下午 09:00:35 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/25 下午 09:38:21 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/25 下午 09:38:21 Info   numAxis = 4
+2022/1/25 下午 09:38:21 Info   numPOVs = 1
+2022/1/25 下午 09:38:21 Info   numButtons = 16
+2022/1/25 下午 09:38:21 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/25 下午 09:38:21 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/25 下午 09:38:21 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/25 下午 09:38:21 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/25 下午 09:38:21 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/25 下午 09:38:21 Info   Joystick #1: Wireless Gamepad
+2022/1/25 下午 09:38:21 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/25 下午 09:42:52 Error  Failed to obtain the target window handle (Utils\Utils.cpp#340)
+2022/1/25 下午 09:42:52 Error  存取被拒。
+ (Utils\Utils.cpp#341)
+2022/1/25 下午 10:13:42 Error  Failed to obtain the target window handle (Utils\Utils.cpp#340)
+2022/1/25 下午 10:13:42 Error  存取被拒。
+ (Utils\Utils.cpp#341)
+2022/1/25 下午 10:14:54 Error  Failed to obtain the target window handle (Utils\Utils.cpp#340)
+2022/1/25 下午 10:14:54 Error  存取被拒。
+ (Utils\Utils.cpp#341)
+2022/1/25 下午 10:47:02 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/25 下午 10:51:33 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/25 下午 10:51:33 Info   numAxis = 4
+2022/1/25 下午 10:51:33 Info   numPOVs = 1
+2022/1/25 下午 10:51:33 Info   numButtons = 16
+2022/1/25 下午 10:51:33 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/25 下午 10:51:33 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/25 下午 10:51:33 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/25 下午 10:51:33 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/25 下午 10:51:33 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/25 下午 10:51:33 Info   Joystick #1: Wireless Gamepad
+2022/1/25 下午 10:51:33 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/25 下午 11:28:40 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/26 下午 03:39:19 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/26 下午 03:39:19 Info   numAxis = 4
+2022/1/26 下午 03:39:19 Info   numPOVs = 1
+2022/1/26 下午 03:39:19 Info   numButtons = 16
+2022/1/26 下午 03:39:19 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/26 下午 03:39:19 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/26 下午 03:39:19 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/26 下午 03:39:19 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/26 下午 03:39:19 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/26 下午 03:39:19 Info   Joystick #1: Wireless Gamepad
+2022/1/26 下午 03:39:19 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/26 下午 04:45:17 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/26 下午 05:38:05 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/26 下午 05:38:05 Info   numAxis = 4
+2022/1/26 下午 05:38:05 Info   numPOVs = 1
+2022/1/26 下午 05:38:05 Info   numButtons = 16
+2022/1/26 下午 05:38:05 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/26 下午 05:38:05 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/26 下午 05:38:05 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/26 下午 05:38:05 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/26 下午 05:38:05 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/26 下午 05:38:05 Info   Joystick #1: Wireless Gamepad
+2022/1/26 下午 05:38:05 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/26 下午 06:30:50 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/27 下午 09:58:02 Error  Failed to obtain the target window handle (Utils\Utils.cpp#340)
+2022/1/27 下午 09:58:02 Error  存取被拒。
+ (Utils\Utils.cpp#341)
+2022/1/27 下午 10:05:43 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/27 下午 10:05:43 Info   numAxis = 4
+2022/1/27 下午 10:05:43 Info   numPOVs = 1
+2022/1/27 下午 10:05:43 Info   numButtons = 16
+2022/1/27 下午 10:05:43 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/27 下午 10:05:43 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/27 下午 10:05:43 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/27 下午 10:05:43 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/27 下午 10:05:43 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/27 下午 10:05:43 Info   Joystick #1: Wireless Gamepad
+2022/1/27 下午 10:05:43 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/28 上午 12:29:54 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/28 上午 01:25:16 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/28 上午 01:25:16 Info   numAxis = 4
+2022/1/28 上午 01:25:16 Info   numPOVs = 1
+2022/1/28 上午 01:25:16 Info   numButtons = 16
+2022/1/28 上午 01:25:16 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/28 上午 01:25:16 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/28 上午 01:25:16 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/28 上午 01:25:16 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/28 上午 01:25:16 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/28 上午 01:25:16 Info   Joystick #1: Wireless Gamepad
+2022/1/28 上午 01:25:16 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/28 上午 01:29:06 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/28 上午 01:29:42 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/28 上午 01:29:42 Info   numAxis = 4
+2022/1/28 上午 01:29:42 Info   numPOVs = 1
+2022/1/28 上午 01:29:42 Info   numButtons = 16
+2022/1/28 上午 01:29:42 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/28 上午 01:29:42 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/28 上午 01:29:42 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/28 上午 01:29:42 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/28 上午 01:29:42 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/28 上午 01:29:42 Info   Joystick #1: Wireless Gamepad
+2022/1/28 上午 01:29:42 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/28 上午 01:30:48 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/28 下午 01:27:37 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/28 下午 01:27:37 Info   numAxis = 4
+2022/1/28 下午 01:27:37 Info   numPOVs = 1
+2022/1/28 下午 01:27:37 Info   numButtons = 16
+2022/1/28 下午 01:27:37 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/28 下午 01:27:37 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/28 下午 01:27:37 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/28 下午 01:27:37 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/28 下午 01:27:37 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/28 下午 01:27:37 Info   Joystick #1: Wireless Gamepad
+2022/1/28 下午 01:27:37 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/28 下午 01:49:00 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/28 下午 02:05:26 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/28 下午 02:05:26 Info   numAxis = 4
+2022/1/28 下午 02:05:26 Info   numPOVs = 1
+2022/1/28 下午 02:05:26 Info   numButtons = 16
+2022/1/28 下午 02:05:26 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/28 下午 02:05:26 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/28 下午 02:05:26 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/28 下午 02:05:26 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/28 下午 02:05:26 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/28 下午 02:05:26 Info   Joystick #1: Wireless Gamepad
+2022/1/28 下午 02:05:26 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/28 下午 02:06:56 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/28 下午 02:08:48 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/28 下午 02:08:48 Info   numAxis = 4
+2022/1/28 下午 02:08:48 Info   numPOVs = 1
+2022/1/28 下午 02:08:48 Info   numButtons = 16
+2022/1/28 下午 02:08:48 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/28 下午 02:08:48 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/28 下午 02:08:48 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/28 下午 02:08:48 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/28 下午 02:08:48 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/28 下午 02:08:48 Info   Joystick #1: Wireless Gamepad
+2022/1/28 下午 02:08:48 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/28 下午 02:12:05 Info   0 joystick(s) are detected (Joystick.cpp#272)
+2022/1/28 下午 02:48:14 Info   Detected a DI joystick: Wireless Gamepad, Wireless Gamepad, 2009057E, {015FD6C0-D919-11EB-8001-444553540000}
+2022/1/28 下午 02:48:14 Info   numAxis = 4
+2022/1/28 下午 02:48:14 Info   numPOVs = 1
+2022/1/28 下午 02:48:14 Info   numButtons = 16
+2022/1/28 下午 02:48:14 Info   EnumDeviceObject: Axis offset=24 type=402 name=Y 旋轉
+2022/1/28 下午 02:48:14 Info   EnumDeviceObject: Axis offset=28 type=302 name=X 旋轉
+2022/1/28 下午 02:48:14 Info   EnumDeviceObject: Axis offset=32 type=102 name=Y 軸
+2022/1/28 下午 02:48:14 Info   EnumDeviceObject: Axis offset=36 type=2 name=X 軸
+2022/1/28 下午 02:48:14 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2022/1/28 下午 02:48:14 Info   Joystick #1: Wireless Gamepad
+2022/1/28 下午 02:48:14 Info   1 joystick(s) are detected (Joystick.cpp#272)
+2022/1/28 下午 02:51:01 Info   0 joystick(s) are detected (Joystick.cpp#272)
